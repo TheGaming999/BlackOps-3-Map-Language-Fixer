@@ -35,3 +35,9 @@ Copied 'en_zm_wonderguns.xpak' as 'ea_zm_wonderguns.xpak'
 (SND) Copied 'zm_wonderguns.en.sabl' as 'zm_wonderguns.ea.sabl'
 (SND) Copied 'zm_wonderguns.en.sabs' as 'zm_wonderguns.ea.sabs'
 ```
+
+⚠ Notes:
+* Running the tool as Administrator is necessary for automatic library detection.
+* If language detection fails, manually set the Steam library folder and try again.
+* If t7patch is found, it will be launched before the game.
+* Settings are saved. If you open the tool again, you only need to click "FIX" or "FIX AND RUN"—no need to set everything up again.
